@@ -1,0 +1,12 @@
+logging:
+  level:
+    org:
+      springframework: DEBUG
+
+kdt:
+  version: "v1.0-local"
+  minimum-order-amount: 0
+  support-vendors:
+    - a
+  description: |-
+    line 1
